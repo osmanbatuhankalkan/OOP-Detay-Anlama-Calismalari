@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace oop_sinif
 {
@@ -15,7 +15,11 @@ namespace oop_sinif
            //Bir sürü Myclass nesnesi oluşturduk her birinin kendine ait constructorı var her biri ayrı olarak tetikleneceği için ekrana çıktılarımızı verecektir, verilen bu değer ilk tetiklenen constructor sayesindedir. aşşağıdaki classımızdaki constructor içinde fieldlarımız olsaydı onların bir değeri olsaydi her bir nesenesnin üretimden sonra o fieldlardaki verilen değerlerle üretildiğini görecektik. 
            //Bir nesneyi oluştururken ilk tetiklenen fonksiyona biz constructor fonksiyon diyoruz.
            //MyClass m = new MyClass();//üretilecek olan nesenenin referansı neyse bu tür bir referans yerine 
-           MyClass m = new();//c#9.0 ile beraber referansa karşılık nesneyi üretebiliyorduk Referansın türünden alır, construvtor tetiklenir.      
+           MyClass m = new();//c#9.0 ile beraber referansa karşılık nesneyi üretebiliyorduk Referansın türünden alır, construvtor tetiklenir. 
+           //***************************************************
+           new MyClass2(10);
+           new MyClass2(5);
+           MyClass2 m2 = new(55);     
         }              
      }
      class MyClass
@@ -28,6 +32,37 @@ namespace oop_sinif
            {
 
            }              
+     }
+     class MyClass2
+     {
+      public MyClass2(int a)//burada içeride parametre tanımladığımızdan itibaren yukarıda yaratılan neslereinde parametre içleri doldurulması gerekmektedir.yoksa hata alırız. buradaki parametre ne türde yaratılmışsa o
+      {
+         System.Console.WriteLine("Parametre alan Constructor"+ " "+ a);
+      }
+     }
+     //********************** Constructor Overloading *****************************
+     //*işleyeceğiz
+     //Genellikle biz parametreyi dış dünyada alır, aldığımız parametre üzerinden nesneyi oluştururken belirli ilk değerleri o dış dünyadan gelen değerler üzerinden veririz.
+     //Overloading belirli durumlara göre farklı varyasyonlara göre nesne oluşum sürecini destekleyici niteliktedir.
+     class MyClass3
+     {
+      public MyClass3()
+      {
+
+      }
+      public MyClass3(int a)
+      {
+
+      }
+      public MyClass3(string a)
+      {
+
+      }
+      public MyClass3(string a, int b)
+      {
+
+      }
+
      }
 }
 //Normal bir member sınıf ismiyle aynı olamaz.
