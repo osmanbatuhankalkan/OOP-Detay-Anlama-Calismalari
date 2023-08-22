@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.deps.json
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.pdb
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/refint/NTP-Özel-Sınıf-Elemanları-Constructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.pdb
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Constructor.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Constructor/obj/Debug/net7.0/ref/NTP-Özel-Sınıf-Elemanları-Constructor.dll
