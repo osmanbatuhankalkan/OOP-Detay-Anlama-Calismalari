@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.deps.json
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.pdb
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/refint/NTP-Özel-Sınıf-Elemanları-Destructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.pdb
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-Destructor.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-Destructor/obj/Debug/net7.0/ref/NTP-Özel-Sınıf-Elemanları-Destructor.dll
