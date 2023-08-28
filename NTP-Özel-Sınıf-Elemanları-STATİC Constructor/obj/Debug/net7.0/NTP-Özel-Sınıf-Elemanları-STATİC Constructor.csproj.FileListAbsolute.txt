@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.deps.json
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/bin/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.pdb
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/refint/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.dll
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.pdb
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/NTP-Özel-Sınıf-Elemanları-STATİC Constructor/obj/Debug/net7.0/ref/NTP-Özel-Sınıf-Elemanları-STATİC Constructor.dll
